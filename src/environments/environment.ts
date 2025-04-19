@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  serverBasePath: 'https://restyle-backend-service.zeabur.app/api/v1'
+  serverBasePath: 'https://restyle-web-services-cyf0axfvakcxaehd.brazilsouth-01.azurewebsites.net/api/v1'
 }
